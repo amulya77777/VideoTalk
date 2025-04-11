@@ -1,10 +1,8 @@
-# PeerTalk
+# VideoTalk
 
 A modern real-time chat application with video calling capabilities. Built with React, Node.js, and WebRTC. Features instant messaging, peer-to-peer video calls, typing indicators, and real-time notifications, all wrapped in a beautiful UI.
 
 ## Overview
-
-#### deployment link: [https://peertalk-66wr.onrender.com](https://peertalk-66wr.onrender.com)
 
 ### Architecture
 
